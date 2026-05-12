@@ -1,0 +1,8 @@
+🧠 HW3-1: Naive DQN  for static mode[30%]
+
+✅ Run the provided code naive or Experience buffer reply 
+💬 Chat with ChatGPT about the code to clarify your understanding
+📝 Submit a short understanding report
+Includes:
+Basic DQN implementation for an easy environment
+Experience Replay Buffer

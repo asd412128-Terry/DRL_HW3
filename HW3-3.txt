@@ -1,0 +1,7 @@
+HW3-3: Enhance DQN for random mode WITH Training Tips [30%]
+
+Convert the DQN model from PyTorch to either:
+Keras, or
+PyTorch Lightning
+Bonus points for integrating training techniques to stabilize/improve learning
+(e.g., gradient clipping, learning rate scheduling, etc.)

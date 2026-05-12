@@ -1,0 +1,2 @@
+使用 Rainbow DQN 解 Random Mode GridWorld
+先分析，再教你怎麼做

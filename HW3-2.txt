@@ -1,0 +1,7 @@
+⚖️ HW3-2: Enhanced DQN Variants  for player  mode [40%]
+
+Implement and compare the following:
+
+Double DQN
+Dueling DQN
+💡 Focus on how they improve upon the basic DQN approach
