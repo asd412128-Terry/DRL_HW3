@@ -1,0 +1,2 @@
+Base your work on the DRL in Action (English) GitHub repo:
+https://github.com/DeepReinforcementLearning/DeepReinforcementLearningInAction/tree/master
